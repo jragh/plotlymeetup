@@ -1,0 +1,361 @@
+Disease Category,Disease,Year,Month,Cases
+Sexually Transmitted and Bloodborne,AIDS,2024,January,0
+Sexually Transmitted and Bloodborne,AIDS,2024,February,2
+Sexually Transmitted and Bloodborne,AIDS,2024,March,0
+Sexually Transmitted and Bloodborne,AIDS,2024,April,1
+Sexually Transmitted and Bloodborne,AIDS,2024,May,0
+Sexually Transmitted and Bloodborne,AIDS,2024,June,1
+Sexually Transmitted and Bloodborne,AIDS,2024,July,0
+Sexually Transmitted and Bloodborne,AIDS,2024,August,1
+Sexually Transmitted and Bloodborne,AIDS,2024,September,1
+Sexually Transmitted and Bloodborne,AIDS,2024,October,1
+Sexually Transmitted and Bloodborne,AIDS,2024,November,1
+Sexually Transmitted and Bloodborne,AIDS,2024,December,0
+Sexually Transmitted and Bloodborne,HIV,2024,January,48
+Sexually Transmitted and Bloodborne,HIV,2024,February,37
+Sexually Transmitted and Bloodborne,HIV,2024,March,53
+Sexually Transmitted and Bloodborne,HIV,2024,April,46
+Sexually Transmitted and Bloodborne,HIV,2024,May,28
+Sexually Transmitted and Bloodborne,HIV,2024,June,28
+Sexually Transmitted and Bloodborne,HIV,2024,July,43
+Sexually Transmitted and Bloodborne,HIV,2024,August,33
+Sexually Transmitted and Bloodborne,HIV,2024,September,28
+Sexually Transmitted and Bloodborne,HIV,2024,October,41
+Sexually Transmitted and Bloodborne,HIV,2024,November,29
+Sexually Transmitted and Bloodborne,HIV,2024,December,29
+Sexually Transmitted and Bloodborne,Chlamydia,2024,January,"1,411"
+Sexually Transmitted and Bloodborne,Chlamydia,2024,February,"1,239"
+Sexually Transmitted and Bloodborne,Chlamydia,2024,March,"1,153"
+Sexually Transmitted and Bloodborne,Chlamydia,2024,April,"1,204"
+Sexually Transmitted and Bloodborne,Chlamydia,2024,May,"1,203"
+Sexually Transmitted and Bloodborne,Chlamydia,2024,June,"1,035"
+Sexually Transmitted and Bloodborne,Chlamydia,2024,July,"1,153"
+Sexually Transmitted and Bloodborne,Chlamydia,2024,August,"1,125"
+Sexually Transmitted and Bloodborne,Chlamydia,2024,September,"1,113"
+Sexually Transmitted and Bloodborne,Chlamydia,2024,October,"1,241"
+Sexually Transmitted and Bloodborne,Chlamydia,2024,November,"1,134"
+Sexually Transmitted and Bloodborne,Chlamydia,2024,December,934
+Sexually Transmitted and Bloodborne,Gonorrhea,2024,January,669
+Sexually Transmitted and Bloodborne,Gonorrhea,2024,February,556
+Sexually Transmitted and Bloodborne,Gonorrhea,2024,March,495
+Sexually Transmitted and Bloodborne,Gonorrhea,2024,April,542
+Sexually Transmitted and Bloodborne,Gonorrhea,2024,May,549
+Sexually Transmitted and Bloodborne,Gonorrhea,2024,June,539
+Sexually Transmitted and Bloodborne,Gonorrhea,2024,July,697
+Sexually Transmitted and Bloodborne,Gonorrhea,2024,August,667
+Sexually Transmitted and Bloodborne,Gonorrhea,2024,September,632
+Sexually Transmitted and Bloodborne,Gonorrhea,2024,October,696
+Sexually Transmitted and Bloodborne,Gonorrhea,2024,November,574
+Sexually Transmitted and Bloodborne,Gonorrhea,2024,December,452
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2024,January,49
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2024,February,53
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2024,March,58
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2024,April,44
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2024,May,33
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2024,June,48
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2024,July,41
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2024,August,40
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2024,September,43
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2024,October,42
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2024,November,46
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2024,December,28
+Sexually Transmitted and Bloodborne,Hepatitis C,2024,January,46
+Sexually Transmitted and Bloodborne,Hepatitis C,2024,February,45
+Sexually Transmitted and Bloodborne,Hepatitis C,2024,March,52
+Sexually Transmitted and Bloodborne,Hepatitis C,2024,April,41
+Sexually Transmitted and Bloodborne,Hepatitis C,2024,May,52
+Sexually Transmitted and Bloodborne,Hepatitis C,2024,June,41
+Sexually Transmitted and Bloodborne,Hepatitis C,2024,July,30
+Sexually Transmitted and Bloodborne,Hepatitis C,2024,August,47
+Sexually Transmitted and Bloodborne,Hepatitis C,2024,September,35
+Sexually Transmitted and Bloodborne,Hepatitis C,2024,October,40
+Sexually Transmitted and Bloodborne,Hepatitis C,2024,November,31
+Sexually Transmitted and Bloodborne,Hepatitis C,2024,December,10
+Sexually Transmitted and Bloodborne,Syphilis,2024,January,176
+Sexually Transmitted and Bloodborne,Syphilis,2024,February,185
+Sexually Transmitted and Bloodborne,Syphilis,2024,March,182
+Sexually Transmitted and Bloodborne,Syphilis,2024,April,165
+Sexually Transmitted and Bloodborne,Syphilis,2024,May,179
+Sexually Transmitted and Bloodborne,Syphilis,2024,June,170
+Sexually Transmitted and Bloodborne,Syphilis,2024,July,140
+Sexually Transmitted and Bloodborne,Syphilis,2024,August,145
+Sexually Transmitted and Bloodborne,Syphilis,2024,September,147
+Sexually Transmitted and Bloodborne,Syphilis,2024,October,133
+Sexually Transmitted and Bloodborne,Syphilis,2024,November,124
+Sexually Transmitted and Bloodborne,Syphilis,2024,December,106
+Direct Contact and Respiratory,Group A Streptococcal disease,2024,January,32
+Direct Contact and Respiratory,Group A Streptococcal disease,2024,February,40
+Direct Contact and Respiratory,Group A Streptococcal disease,2024,March,37
+Direct Contact and Respiratory,Group A Streptococcal disease,2024,April,33
+Direct Contact and Respiratory,Group A Streptococcal disease,2024,May,34
+Direct Contact and Respiratory,Group A Streptococcal disease,2024,June,16
+Direct Contact and Respiratory,Group A Streptococcal disease,2024,July,14
+Direct Contact and Respiratory,Group A Streptococcal disease,2024,August,14
+Direct Contact and Respiratory,Group A Streptococcal disease,2024,September,16
+Direct Contact and Respiratory,Group A Streptococcal disease,2024,October,16
+Direct Contact and Respiratory,Group A Streptococcal disease,2024,November,15
+Direct Contact and Respiratory,Group A Streptococcal disease,2024,December,25
+Direct Contact and Respiratory,Pneumococcal disease,2024,January,28
+Direct Contact and Respiratory,Pneumococcal disease,2024,February,39
+Direct Contact and Respiratory,Pneumococcal disease,2024,March,29
+Direct Contact and Respiratory,Pneumococcal disease,2024,April,30
+Direct Contact and Respiratory,Pneumococcal disease,2024,May,21
+Direct Contact and Respiratory,Pneumococcal disease,2024,June,8
+Direct Contact and Respiratory,Pneumococcal disease,2024,July,17
+Direct Contact and Respiratory,Pneumococcal disease,2024,August,12
+Direct Contact and Respiratory,Pneumococcal disease,2024,September,18
+Direct Contact and Respiratory,Pneumococcal disease,2024,October,28
+Direct Contact and Respiratory,Pneumococcal disease,2024,November,13
+Direct Contact and Respiratory,Pneumococcal disease,2024,December,30
+Direct Contact and Respiratory,Tuberculosis,2024,January,25
+Direct Contact and Respiratory,Tuberculosis,2024,February,27
+Direct Contact and Respiratory,Tuberculosis,2024,March,27
+Direct Contact and Respiratory,Tuberculosis,2024,April,31
+Direct Contact and Respiratory,Tuberculosis,2024,May,45
+Direct Contact and Respiratory,Tuberculosis,2024,June,39
+Direct Contact and Respiratory,Tuberculosis,2024,July,36
+Direct Contact and Respiratory,Tuberculosis,2024,August,30
+Direct Contact and Respiratory,Tuberculosis,2024,September,37
+Direct Contact and Respiratory,Tuberculosis,2024,October,37
+Direct Contact and Respiratory,Tuberculosis,2024,November,25
+Direct Contact and Respiratory,Tuberculosis,2024,December,17
+Sexually Transmitted and Bloodborne,AIDS,2023,January,2
+Sexually Transmitted and Bloodborne,AIDS,2023,February,1
+Sexually Transmitted and Bloodborne,AIDS,2023,March,2
+Sexually Transmitted and Bloodborne,AIDS,2023,April,1
+Sexually Transmitted and Bloodborne,AIDS,2023,May,5
+Sexually Transmitted and Bloodborne,AIDS,2023,June,2
+Sexually Transmitted and Bloodborne,AIDS,2023,July,3
+Sexually Transmitted and Bloodborne,AIDS,2023,August,1
+Sexually Transmitted and Bloodborne,AIDS,2023,September,0
+Sexually Transmitted and Bloodborne,AIDS,2023,October,0
+Sexually Transmitted and Bloodborne,AIDS,2023,November,0
+Sexually Transmitted and Bloodborne,AIDS,2023,December,0
+Sexually Transmitted and Bloodborne,HIV,2023,January,56
+Sexually Transmitted and Bloodborne,HIV,2023,February,54
+Sexually Transmitted and Bloodborne,HIV,2023,March,55
+Sexually Transmitted and Bloodborne,HIV,2023,April,47
+Sexually Transmitted and Bloodborne,HIV,2023,May,75
+Sexually Transmitted and Bloodborne,HIV,2023,June,70
+Sexually Transmitted and Bloodborne,HIV,2023,July,71
+Sexually Transmitted and Bloodborne,HIV,2023,August,71
+Sexually Transmitted and Bloodborne,HIV,2023,September,47
+Sexually Transmitted and Bloodborne,HIV,2023,October,78
+Sexually Transmitted and Bloodborne,HIV,2023,November,60
+Sexually Transmitted and Bloodborne,HIV,2023,December,48
+Sexually Transmitted and Bloodborne,Chlamydia,2023,January,"1,018"
+Sexually Transmitted and Bloodborne,Chlamydia,2023,February,881
+Sexually Transmitted and Bloodborne,Chlamydia,2023,March,"1,131"
+Sexually Transmitted and Bloodborne,Chlamydia,2023,April,"1,011"
+Sexually Transmitted and Bloodborne,Chlamydia,2023,May,"1,150"
+Sexually Transmitted and Bloodborne,Chlamydia,2023,June,"1,310"
+Sexually Transmitted and Bloodborne,Chlamydia,2023,July,"1,289"
+Sexually Transmitted and Bloodborne,Chlamydia,2023,August,"1,310"
+Sexually Transmitted and Bloodborne,Chlamydia,2023,September,549
+Sexually Transmitted and Bloodborne,Chlamydia,2023,October,428
+Sexually Transmitted and Bloodborne,Chlamydia,2023,November,478
+Sexually Transmitted and Bloodborne,Chlamydia,2023,December,371
+Sexually Transmitted and Bloodborne,Gonorrhea,2023,January,484
+Sexually Transmitted and Bloodborne,Gonorrhea,2023,February,433
+Sexually Transmitted and Bloodborne,Gonorrhea,2023,March,524
+Sexually Transmitted and Bloodborne,Gonorrhea,2023,April,456
+Sexually Transmitted and Bloodborne,Gonorrhea,2023,May,599
+Sexually Transmitted and Bloodborne,Gonorrhea,2023,June,694
+Sexually Transmitted and Bloodborne,Gonorrhea,2023,July,724
+Sexually Transmitted and Bloodborne,Gonorrhea,2023,August,697
+Sexually Transmitted and Bloodborne,Gonorrhea,2023,September,697
+Sexually Transmitted and Bloodborne,Gonorrhea,2023,October,672
+Sexually Transmitted and Bloodborne,Gonorrhea,2023,November,680
+Sexually Transmitted and Bloodborne,Gonorrhea,2023,December,555
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2023,January,18
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2023,February,17
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2023,March,17
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2023,April,14
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2023,May,21
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2023,June,40
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2023,July,42
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2023,August,33
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2023,September,33
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2023,October,43
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2023,November,33
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2023,December,19
+Sexually Transmitted and Bloodborne,Hepatitis C,2023,January,44
+Sexually Transmitted and Bloodborne,Hepatitis C,2023,February,38
+Sexually Transmitted and Bloodborne,Hepatitis C,2023,March,45
+Sexually Transmitted and Bloodborne,Hepatitis C,2023,April,45
+Sexually Transmitted and Bloodborne,Hepatitis C,2023,May,33
+Sexually Transmitted and Bloodborne,Hepatitis C,2023,June,58
+Sexually Transmitted and Bloodborne,Hepatitis C,2023,July,61
+Sexually Transmitted and Bloodborne,Hepatitis C,2023,August,53
+Sexually Transmitted and Bloodborne,Hepatitis C,2023,September,54
+Sexually Transmitted and Bloodborne,Hepatitis C,2023,October,51
+Sexually Transmitted and Bloodborne,Hepatitis C,2023,November,63
+Sexually Transmitted and Bloodborne,Hepatitis C,2023,December,39
+Sexually Transmitted and Bloodborne,Syphilis,2023,January,199
+Sexually Transmitted and Bloodborne,Syphilis,2023,February,169
+Sexually Transmitted and Bloodborne,Syphilis,2023,March,199
+Sexually Transmitted and Bloodborne,Syphilis,2023,April,136
+Sexually Transmitted and Bloodborne,Syphilis,2023,May,171
+Sexually Transmitted and Bloodborne,Syphilis,2023,June,187
+Sexually Transmitted and Bloodborne,Syphilis,2023,July,184
+Sexually Transmitted and Bloodborne,Syphilis,2023,August,172
+Sexually Transmitted and Bloodborne,Syphilis,2023,September,163
+Sexually Transmitted and Bloodborne,Syphilis,2023,October,145
+Sexually Transmitted and Bloodborne,Syphilis,2023,November,165
+Sexually Transmitted and Bloodborne,Syphilis,2023,December,105
+Direct Contact and Respiratory,Group A Streptococcal disease,2023,January,23
+Direct Contact and Respiratory,Group A Streptococcal disease,2023,February,20
+Direct Contact and Respiratory,Group A Streptococcal disease,2023,March,33
+Direct Contact and Respiratory,Group A Streptococcal disease,2023,April,20
+Direct Contact and Respiratory,Group A Streptococcal disease,2023,May,27
+Direct Contact and Respiratory,Group A Streptococcal disease,2023,June,27
+Direct Contact and Respiratory,Group A Streptococcal disease,2023,July,23
+Direct Contact and Respiratory,Group A Streptococcal disease,2023,August,18
+Direct Contact and Respiratory,Group A Streptococcal disease,2023,September,12
+Direct Contact and Respiratory,Group A Streptococcal disease,2023,October,29
+Direct Contact and Respiratory,Group A Streptococcal disease,2023,November,19
+Direct Contact and Respiratory,Group A Streptococcal disease,2023,December,40
+Direct Contact and Respiratory,Pneumococcal disease,2023,January,22
+Direct Contact and Respiratory,Pneumococcal disease,2023,February,23
+Direct Contact and Respiratory,Pneumococcal disease,2023,March,20
+Direct Contact and Respiratory,Pneumococcal disease,2023,April,14
+Direct Contact and Respiratory,Pneumococcal disease,2023,May,23
+Direct Contact and Respiratory,Pneumococcal disease,2023,June,12
+Direct Contact and Respiratory,Pneumococcal disease,2023,July,19
+Direct Contact and Respiratory,Pneumococcal disease,2023,August,15
+Direct Contact and Respiratory,Pneumococcal disease,2023,September,16
+Direct Contact and Respiratory,Pneumococcal disease,2023,October,18
+Direct Contact and Respiratory,Pneumococcal disease,2023,November,29
+Direct Contact and Respiratory,Pneumococcal disease,2023,December,42
+Direct Contact and Respiratory,Tuberculosis,2023,January,30
+Direct Contact and Respiratory,Tuberculosis,2023,February,18
+Direct Contact and Respiratory,Tuberculosis,2023,March,33
+Direct Contact and Respiratory,Tuberculosis,2023,April,25
+Direct Contact and Respiratory,Tuberculosis,2023,May,23
+Direct Contact and Respiratory,Tuberculosis,2023,June,36
+Direct Contact and Respiratory,Tuberculosis,2023,July,31
+Direct Contact and Respiratory,Tuberculosis,2023,August,38
+Direct Contact and Respiratory,Tuberculosis,2023,September,30
+Direct Contact and Respiratory,Tuberculosis,2023,October,29
+Direct Contact and Respiratory,Tuberculosis,2023,November,21
+Direct Contact and Respiratory,Tuberculosis,2023,December,27
+Sexually Transmitted and Bloodborne,AIDS,2022,January,3
+Sexually Transmitted and Bloodborne,AIDS,2022,February,4
+Sexually Transmitted and Bloodborne,AIDS,2022,March,1
+Sexually Transmitted and Bloodborne,AIDS,2022,April,2
+Sexually Transmitted and Bloodborne,AIDS,2022,May,2
+Sexually Transmitted and Bloodborne,AIDS,2022,June,4
+Sexually Transmitted and Bloodborne,AIDS,2022,July,3
+Sexually Transmitted and Bloodborne,AIDS,2022,August,2
+Sexually Transmitted and Bloodborne,AIDS,2022,September,2
+Sexually Transmitted and Bloodborne,AIDS,2022,October,1
+Sexually Transmitted and Bloodborne,AIDS,2022,November,1
+Sexually Transmitted and Bloodborne,AIDS,2022,December,1
+Sexually Transmitted and Bloodborne,HIV,2022,January,34
+Sexually Transmitted and Bloodborne,HIV,2022,February,28
+Sexually Transmitted and Bloodborne,HIV,2022,March,36
+Sexually Transmitted and Bloodborne,HIV,2022,April,38
+Sexually Transmitted and Bloodborne,HIV,2022,May,47
+Sexually Transmitted and Bloodborne,HIV,2022,June,41
+Sexually Transmitted and Bloodborne,HIV,2022,July,44
+Sexually Transmitted and Bloodborne,HIV,2022,August,48
+Sexually Transmitted and Bloodborne,HIV,2022,September,56
+Sexually Transmitted and Bloodborne,HIV,2022,October,48
+Sexually Transmitted and Bloodborne,HIV,2022,November,41
+Sexually Transmitted and Bloodborne,HIV,2022,December,50
+Sexually Transmitted and Bloodborne,Chlamydia,2022,January,774
+Sexually Transmitted and Bloodborne,Chlamydia,2022,February,814
+Sexually Transmitted and Bloodborne,Chlamydia,2022,March,"1,101"
+Sexually Transmitted and Bloodborne,Chlamydia,2022,April,981
+Sexually Transmitted and Bloodborne,Chlamydia,2022,May,"1,026"
+Sexually Transmitted and Bloodborne,Chlamydia,2022,June,"1,075"
+Sexually Transmitted and Bloodborne,Chlamydia,2022,July,952
+Sexually Transmitted and Bloodborne,Chlamydia,2022,August,"1,019"
+Sexually Transmitted and Bloodborne,Chlamydia,2022,September,"1,080"
+Sexually Transmitted and Bloodborne,Chlamydia,2022,October,983
+Sexually Transmitted and Bloodborne,Chlamydia,2022,November,"1,181"
+Sexually Transmitted and Bloodborne,Chlamydia,2022,December,929
+Sexually Transmitted and Bloodborne,Gonorrhea,2022,January,321
+Sexually Transmitted and Bloodborne,Gonorrhea,2022,February,303
+Sexually Transmitted and Bloodborne,Gonorrhea,2022,March,478
+Sexually Transmitted and Bloodborne,Gonorrhea,2022,April,440
+Sexually Transmitted and Bloodborne,Gonorrhea,2022,May,469
+Sexually Transmitted and Bloodborne,Gonorrhea,2022,June,495
+Sexually Transmitted and Bloodborne,Gonorrhea,2022,July,466
+Sexually Transmitted and Bloodborne,Gonorrhea,2022,August,458
+Sexually Transmitted and Bloodborne,Gonorrhea,2022,September,472
+Sexually Transmitted and Bloodborne,Gonorrhea,2022,October,465
+Sexually Transmitted and Bloodborne,Gonorrhea,2022,November,520
+Sexually Transmitted and Bloodborne,Gonorrhea,2022,December,440
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2022,January,22
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2022,February,17
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2022,March,22
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2022,April,14
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2022,May,24
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2022,June,11
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2022,July,14
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2022,August,26
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2022,September,29
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2022,October,22
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2022,November,18
+Sexually Transmitted and Bloodborne,Hepatitis B Carriers,2022,December,15
+Sexually Transmitted and Bloodborne,Hepatitis C,2022,January,38
+Sexually Transmitted and Bloodborne,Hepatitis C,2022,February,30
+Sexually Transmitted and Bloodborne,Hepatitis C,2022,March,51
+Sexually Transmitted and Bloodborne,Hepatitis C,2022,April,33
+Sexually Transmitted and Bloodborne,Hepatitis C,2022,May,46
+Sexually Transmitted and Bloodborne,Hepatitis C,2022,June,40
+Sexually Transmitted and Bloodborne,Hepatitis C,2022,July,48
+Sexually Transmitted and Bloodborne,Hepatitis C,2022,August,57
+Sexually Transmitted and Bloodborne,Hepatitis C,2022,September,43
+Sexually Transmitted and Bloodborne,Hepatitis C,2022,October,34
+Sexually Transmitted and Bloodborne,Hepatitis C,2022,November,33
+Sexually Transmitted and Bloodborne,Hepatitis C,2022,December,30
+Sexually Transmitted and Bloodborne,Syphilis,2022,January,169
+Sexually Transmitted and Bloodborne,Syphilis,2022,February,174
+Sexually Transmitted and Bloodborne,Syphilis,2022,March,192
+Sexually Transmitted and Bloodborne,Syphilis,2022,April,195
+Sexually Transmitted and Bloodborne,Syphilis,2022,May,183
+Sexually Transmitted and Bloodborne,Syphilis,2022,June,190
+Sexually Transmitted and Bloodborne,Syphilis,2022,July,209
+Sexually Transmitted and Bloodborne,Syphilis,2022,August,234
+Sexually Transmitted and Bloodborne,Syphilis,2022,September,203
+Sexually Transmitted and Bloodborne,Syphilis,2022,October,208
+Sexually Transmitted and Bloodborne,Syphilis,2022,November,243
+Sexually Transmitted and Bloodborne,Syphilis,2022,December,190
+Direct Contact and Respiratory,Group A Streptococcal disease,2022,January,13
+Direct Contact and Respiratory,Group A Streptococcal disease,2022,February,7
+Direct Contact and Respiratory,Group A Streptococcal disease,2022,March,10
+Direct Contact and Respiratory,Group A Streptococcal disease,2022,April,5
+Direct Contact and Respiratory,Group A Streptococcal disease,2022,May,6
+Direct Contact and Respiratory,Group A Streptococcal disease,2022,June,6
+Direct Contact and Respiratory,Group A Streptococcal disease,2022,July,10
+Direct Contact and Respiratory,Group A Streptococcal disease,2022,August,9
+Direct Contact and Respiratory,Group A Streptococcal disease,2022,September,9
+Direct Contact and Respiratory,Group A Streptococcal disease,2022,October,10
+Direct Contact and Respiratory,Group A Streptococcal disease,2022,November,16
+Direct Contact and Respiratory,Group A Streptococcal disease,2022,December,18
+Direct Contact and Respiratory,Pneumococcal disease,2022,January,25
+Direct Contact and Respiratory,Pneumococcal disease,2022,February,7
+Direct Contact and Respiratory,Pneumococcal disease,2022,March,10
+Direct Contact and Respiratory,Pneumococcal disease,2022,April,12
+Direct Contact and Respiratory,Pneumococcal disease,2022,May,13
+Direct Contact and Respiratory,Pneumococcal disease,2022,June,12
+Direct Contact and Respiratory,Pneumococcal disease,2022,July,8
+Direct Contact and Respiratory,Pneumococcal disease,2022,August,3
+Direct Contact and Respiratory,Pneumococcal disease,2022,September,15
+Direct Contact and Respiratory,Pneumococcal disease,2022,October,20
+Direct Contact and Respiratory,Pneumococcal disease,2022,November,37
+Direct Contact and Respiratory,Pneumococcal disease,2022,December,29
+Direct Contact and Respiratory,Tuberculosis,2022,January,19
+Direct Contact and Respiratory,Tuberculosis,2022,February,25
+Direct Contact and Respiratory,Tuberculosis,2022,March,23
+Direct Contact and Respiratory,Tuberculosis,2022,April,25
+Direct Contact and Respiratory,Tuberculosis,2022,May,18
+Direct Contact and Respiratory,Tuberculosis,2022,June,27
+Direct Contact and Respiratory,Tuberculosis,2022,July,24
+Direct Contact and Respiratory,Tuberculosis,2022,August,31
+Direct Contact and Respiratory,Tuberculosis,2022,September,32
+Direct Contact and Respiratory,Tuberculosis,2022,October,20
+Direct Contact and Respiratory,Tuberculosis,2022,November,24
+Direct Contact and Respiratory,Tuberculosis,2022,December,31
